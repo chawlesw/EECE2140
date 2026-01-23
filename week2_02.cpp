@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//WEEK 2
+
 int main() {
     /*
 

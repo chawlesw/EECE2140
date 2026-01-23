@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//WEEK 2
 void greet ()
 {
     cout << "Hello from a function!" << endl;
