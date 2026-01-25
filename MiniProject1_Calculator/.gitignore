@@ -1,0 +1,4 @@
+calculator
+*.out
+*.o
+.vscode/
