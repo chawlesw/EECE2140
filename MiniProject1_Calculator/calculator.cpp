@@ -3,7 +3,7 @@ Calculator with addition, subtraction, multiplication, divison, and modulus.
 
 EECE2140, Professor Nafa
 By: Charles Wan
-25 January, 2026
+26 January, 2026
 */
 
 #include <iostream>
