@@ -4,7 +4,7 @@ Interactive menu program for testing Queue class
 
 By: Charles Wan
 EECE 2140 - Professor Nafa - Mini Project 2
-14 Febuary, 2026
+14 February, 2026
 */
 
 #include <iostream>
@@ -42,7 +42,7 @@ do {
             break;  
 
         case 4:
-            cout << "Queue size:: " << q1.size() << endl;
+            cout << "Queue size: " << q1.size() << endl;
             break;  
 
         case 0:

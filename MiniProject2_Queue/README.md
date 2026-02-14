@@ -2,16 +2,17 @@
 A circular queue implementation in C++ using array-based storage with fixed capacity.
 
 ## Build/Run Commands
-**Build Command**: 
+**Build Command:** 
 ``` bash
 g++ -I include -o main src/main.cpp src/queue.cpp
 ```
-**Run Command**: 
+**Run Command:** 
 ```bash
 ./main
 ```
 
-## File Structure: 
+## File Structure
+```
 MiniProject2_Queue/
     include/
         Queue.h         - Queue class declaration and function prototypes
@@ -20,9 +21,10 @@ MiniProject2_Queue/
         main.cpp        - Interactive menu program
     README.md           - Project documentation
     TESTING.md          - Test results and verification
+```
 
-
-## Example Usage:
+## Example Usage
+```
 =======MENU=======
 Option 1: Enqueue
 Option 2: Dequeue
@@ -44,5 +46,5 @@ Front element: 10
 
 Menu Option: 2
 Element dequeued: 10
-
+```
 

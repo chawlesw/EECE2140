@@ -4,7 +4,7 @@ Implementation of circular queue data structure
 
 By: Charles Wan
 EECE 2140 - Professor Nafa - Mini Project 2
-14 Febuary, 2026
+14 February, 2026
 */
 
 #include "../include/queue.h"

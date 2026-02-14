@@ -4,7 +4,7 @@ Declares a circular queue data structure with fixed capacity
 
 By: Charles Wan
 EECE 2140 - Professor Nafa - Mini Project 2
-14 Febuary, 2026
+14 February, 2026
 */
 
 #ifndef QUEUE_H
